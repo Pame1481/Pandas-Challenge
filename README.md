@@ -56,3 +56,14 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
+### Bottom Performing Schools (By Passing Rate)
+
+* Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+
+### Math Scores by Grade\*\*
+
+* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+### Reading Scores by Grade
+
+* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
