@@ -42,3 +42,17 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
+### Top Performing Schools (By Passing Rate)
+
+* Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+  * School Name
+  * School Type
+  * Total Students
+  * Total School Budget
+  * Per Student Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math
+  * % Passing Reading
+  * Overall Passing Rate (Average of the above two)
+
