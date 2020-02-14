@@ -28,4 +28,17 @@ Your final report should include each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-  
+### School Summary
+
+* Create an overview table that summarizes key metrics about each school, including:
+  * School Name
+  * School Type
+  * Total Students
+  * Total School Budget
+  * Per Student Budget
+  * Average Math Score
+  * Average Reading Score
+  * % Passing Math
+  * % Passing Reading
+  * Overall Passing Rate (Average of the above two)
+
